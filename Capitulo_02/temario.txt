@@ -1,0 +1,7 @@
+
+2:00:16 - Apertura del capitulo 2
+2:03:26 - Arrays
+2:15:09 - Arrays Asociativos (Objetos)
+2:23:28 - Bucles e iteración (While, For, etc...)
+3:05:49 - Funciones
+3:33:54 - Historia de Cofla 2 (Crear soluciones)

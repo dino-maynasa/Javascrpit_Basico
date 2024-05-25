@@ -1,0 +1,7 @@
+
+4:03:44 - Apertura del capitulo 3
+4:07:35 - POO (Programación orientada a objetos)
+4:09:25 - Conceptos básicos de la Programación orientada a objetos
+4:22:27 - Caracteristicas de la Programación orientada a objetos
+4:34:44 - Otros conceptos de Programación orientada a objetos
+4:41:25 - Historia de Cofla 3 (Crear soluciones)

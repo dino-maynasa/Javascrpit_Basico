@@ -1,0 +1,6 @@
+
+5:10:02 - Apertura del capitulo 4
+5:12:52 - Métodos de cadenas
+5:42:43 - Métodos de arrays
+6:08:10 - Objeto Math
+6:21:21 - Historia de Cofla 4 (Crear soluciones)

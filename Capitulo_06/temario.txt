@@ -1,0 +1,16 @@
+7:39:26 - Apertura de capitulo 6
+7:42:26 - El DOM (Document Object Model)
+7:50:26 - Métodos de selección de elementos 
+7:59:52 - Métodos de atributos de un elemento
+8:06:39 - Atributos globales
+8:15:23 - Atributos de inputs
+8:29:46 - Propiedad Style
+8:34:30 - Clases, classList y sus métodos
+8:44:20 - Obtención y modificación de elementos
+8:52:40 - Creación de elementos
+9:03:20 - Obtención y modificacion de childs
+9:13:03 - Métodos de childs (hijos)
+9:18:35 - Propiedades de parents (Padres)
+9:21:02 - Propiedades de siblings (Hermanos)
+9:23:46 - Nodos, una propiedad extra
+9:26:25 - Historia de cofla 6 (Crear soluciones)

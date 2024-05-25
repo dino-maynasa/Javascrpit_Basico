@@ -1,0 +1,15 @@
+
+5:26 - Apertura del capitulo 1
+7:25 - Introducción a javascript
+15:40 - Editor de texto
+22:26 - Usos de javascript
+24:44 - Formas de incluir javascript
+27:52 - Todo sobre variables
+46:14 - Pedir datos con prompt
+49:51 - Operadores en javascript (Básico) 
+1:03:54 - Concatenación
+1:10:40 - Template Strings y el uso de Backticks
+1:15:41 - Operadores en javascript (Intermedio)
+1:34:57 - Camel Case en javascript
+1:37:02 - Condicionales
+1:45:38 - Historia de Cofla 1 (Crear soluciones)

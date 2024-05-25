@@ -80,3 +80,6 @@
 9:57:04 - Próximo nivel y felicitaciones
 9:58:20 - Agradecimientos especiales
 10:00:07 - Frase final y créditos
+
+**enlace de apoyo**
+https://github.com/soydalto/curso-de-javascript
