@@ -16,3 +16,13 @@ console.log(false && false); // false
 console.log(!true); // false
 console.log(!0); // true
 
+//combinacion de operadores logicos 
+2 < 3 && 3 < 4 // → true
+
+2 + 2 < 3 && 10 < 8 * 2
+// Primero se hacen las operaciones aritméticas:
+// → 4 < 3 && 10 < 16
+// Ahora las comparaciones:
+// → false && true
+// Finalmente:
+// → false
