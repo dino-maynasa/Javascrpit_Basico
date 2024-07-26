@@ -2,7 +2,7 @@
     display:block;
     margin:0 auto;
     padding:20px;
-    background-color:#29b9b9;
+    background-color:#087b1b;
     width:350px;
     height:510px;
     border-radius: 25px;
@@ -37,5 +37,5 @@
     border-radius: 25px;
     overflow-y: scroll;
   } #reset{
-    background-color: red;
+    background-color: rgb(15, 160, 80);
   }
