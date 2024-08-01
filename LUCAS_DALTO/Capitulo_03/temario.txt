@@ -1,6 +1,19 @@
 
 4:03:44 - Apertura del capitulo 3
 4:07:35 - POO (Programación orientada a objetos)
+-clase
+-objetos
+-atributo
+-constructor
+-instanciación
+
+caracteristicas del POO
+-abstracción (tomar los atributos especiales);
+-modularidad (dividirlos en partes mas pequeños)
+-encapsulamiento (poner acceso a la información)
+-polimorfismo (comportamiento de los objetos con diferentes metodos)
+
+
 4:09:25 - Conceptos básicos de la Programación orientada a objetos
 4:22:27 - Caracteristicas de la Programación orientada a objetos
 4:34:44 - Otros conceptos de Programación orientada a objetos
