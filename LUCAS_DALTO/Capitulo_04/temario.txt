@@ -1,6 +1,16 @@
 
 5:10:02 - Apertura del capitulo 4
 5:12:52 - Métodos de cadenas
+20 métodos de cadenas.
+concat()   junta dos o mas cadenas y retorna una nueva.
+startWith() -si una cadena comienza com los caracteres de otra  cadena, devuelve true, sino devuelve false.
+endWhit() - si la cadena termina con los caracteres de otra cadena, devuelve true, sino devuelve false.
+includes() -  si un cadena puede encontrarse dentro de otra cadena, devuelve true, sino devuelve false.
+indexOf() - devuelve el indice  del primer caracter de la cadena, si no existe devuelve -1
+lasIndexOf() - devuelve el ultimo del primer caracer de la cadena, si no existe devuelve -1
+
+padStart() - [propuesta de estandar] - Rellenar cadena al principio 
+
 5:42:43 - Métodos de arrays
 6:08:10 - Objeto Math
 6:21:21 - Historia de Cofla 4 (Crear soluciones)
