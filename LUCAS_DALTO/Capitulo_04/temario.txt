@@ -29,4 +29,13 @@ filter(), crea unj un nuevo array con todos los elementos que cumplan una condic
 forEach() ejecuta una funcion indicada una vez  por cada elemento del array
 
 6:08:10 - Objeto Math
+-sqrt(), devuelve la raiz cuadrada.
+-cbrt(), devuelve la raiz cubica.
+-max(), devuelve  el numero mayor.
+-min(), devuelve el numero menor de todos.
+-random(), devuelve numeros aleatorio entre 0 y 1.
+-fround(), devuelve la representacion flotante mas cercana de un numero.
+-floor() - devuelve el mayor entero menor o igual a un numero.
+-trunc (devuelve la parte entera de un numero x, la eliminacion de digitos fraccionarios)
+-
 6:21:21 - Historia de Cofla 4 (Crear soluciones)
