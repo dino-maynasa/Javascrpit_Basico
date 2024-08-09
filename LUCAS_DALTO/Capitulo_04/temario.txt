@@ -12,5 +12,21 @@ lasIndexOf() - devuelve el ultimo del primer caracer de la cadena, si no existe 
 padStart() - [propuesta de estandar] - Rellenar cadena al principio 
 
 5:42:43 - Métodos de arrays
+_______________transformadores__________
+-pop() elimina el ultimo elemento del arrays y lo devuelve.
+-shift()  elimina el primer elemento del arrays y lo devuelve
+-reverse() invierte el orden de los elementops del array.
+-unshift() iagreg uno o mas elementos al inicio del array, y devuelve la nueva longitud del array
+-sort() ordena los elementos de un arreglo (array) localmente y devuelve el arreglo ordenado
+-splice() cambia el contenido del array eliminando elementos existentes y/o agregando nuevos elementos.
+
+__________Accesores___________
+-join() une todos los elementos de una matriz (u objeto similar ) en cada una de las cadenas y lo devuelve.
+-slice() devuelve una parte del array dentro de un array empezando por el inicio hasta el fin(inicio no incluido)ç
+- Métodos ya vistos en cadenas: toString(), 
+_________de repetición__________
+filter(), crea unj un nuevo array con todos los elementos que cumplan una condicion
+forEach() ejecuta una funcion indicada una vez  por cada elemento del array
+
 6:08:10 - Objeto Math
 6:21:21 - Historia de Cofla 4 (Crear soluciones)
