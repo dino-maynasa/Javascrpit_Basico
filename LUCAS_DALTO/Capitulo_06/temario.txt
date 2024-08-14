@@ -1,16 +1,44 @@
-7:39:26 - Apertura de capitulo 6
-7:42:26 - El DOM (Document Object Model)
-7:50:26 - Métodos de selección de elementos 
-7:59:52 - Métodos de atributos de un elemento
-8:06:39 - Atributos globales
-8:15:23 - Atributos de inputs
-8:29:46 - Propiedad Style
-8:34:30 - Clases, classList y sus métodos
-8:44:20 - Obtención y modificación de elementos
-8:52:40 - Creación de elementos
-9:03:20 - Obtención y modificacion de childs
-9:13:03 - Métodos de childs (hijos)
-9:18:35 - Propiedades de parents (Padres)
-9:21:02 - Propiedades de siblings (Hermanos)
-9:23:46 - Nodos, una propiedad extra
-9:26:25 - Historia de cofla 6 (Crear soluciones)
+-* Apertura de capitulo 6
+-* El DOM (Document Object Model)
+        nodo: cualquier etiqueta del cuerpop.como la de un parrafo, el mismo body o incluso las etiquetas de listas.
+        *Document: el nodo document es el nodo raiz a partir del cual derivan el resto de nodos.
+        *Element: nodos definidos por etiqueta de html.
+        *Text:  texto dentro del nodo element se considera un nuevo nodo hijo de tipo text (texto).
+        *Atribute: los atributos de las etiquetas definen nodos, (en javascript los veremos  como nodos como informacion asociada a nodo element)
+        *Commentarios y otros: los comentarios y otros elementos como las declaraciones doctype en cabecera de los documentos de HTML generan nodos.
+
+-* Métodos de selección de elementos 
+        -getElementById() - selecciona  un elemento por ID.
+        -getElementByTagName() - selecciona todos los elementos que coincidan con el mismo nombre de la etiqueta especiañlizada.
+        -querySelector() - devuelve el primer elemento que coincida con el grupo especificado de selectores.
+        querySelectorAll() - devuelve todos los elementos que coincidan con el grupo especificado de selectores.
+
+-* Métodos de atributos de un elemento
+
+-* Metodos para definir, obtener y Eliminar valores de atributos de un elemento
+        -setAttribute() - modifica el valor del atributo.
+        -getAttribute() - obtiene el valor de un atributo.
+        -removeAttribute() - remueve el valor del atributo.
+
+-* Atributos globales (todos los elementos tienen esos atributos)
+
+        class - lista de clases de elementos separadas por espacios.
+        contenteditable - indica si un elemento puede ser modificado por el usuario (bool)
+        dir - indica la direccionalidad del texto.
+        hidden - indica si el elemenes aun no es, o ya no es relevante.
+        id - define un identificador unico.
+        style - contiene declaraciones de estilo para css para ser aplicado al elemento.
+        tabindex - indica si el elemento puede obtener un focus del input 
+        title -  contiene un texto con informacion relacionada al elemento que pertenece.
+        
+-* Atributos de inputs
+-* Propiedad Style
+-* Clases, classList y sus métodos
+-* Obtención y modificación de elementos
+-* Creación de elementos
+-* Obtención y modificacion de childs
+-* Métodos de childs (hijos)
+-* Propiedades de parents (Padres)
+-* Propiedades de siblings (Hermanos)
+-* Nodos, una propiedad extra
+-* Historia de cofla 6 (Crear soluciones)
