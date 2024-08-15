@@ -32,8 +32,27 @@
         title -  contiene un texto con informacion relacionada al elemento que pertenece.
         
 -* Atributos de inputs
+        classname -  inidica el nombre de la clase 
+        value - valor predefinido en el input
+        type -  especifica el tipo de entrada del input 
+        accept -  especifica el tipo de dato a recepcionar
+        form -  
+        minLength -   indica la cantidad minima en el input
+        placeholder -
+        required  
+
 -* Propiedad Style
+        - se aplica a los elementos  de nodos:
+        
 -* Clases, classList y sus métodos
+        - add() - añade una clase
+        - remove() - remueve una clase.
+        - item() - devuelve una clase del indice especificado.
+        - contains () - verifica si el elemento posee o no la clase especificada
+        - replace () - remplaza por otra clase
+        - toggle () - si no tiene la clase especificada,la agrega, si ya la tiene la elimina
+
+
 -* Obtención y modificación de elementos
 -* Creación de elementos
 -* Obtención y modificacion de childs

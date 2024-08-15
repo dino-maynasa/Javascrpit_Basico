@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="/LUCAS_DALTO/Capitulo_06/style.css">
     <title>Document</title>
+
 </head>
 <body>
     <!-- <p id="parrafo">Que tal</p>
@@ -18,8 +19,33 @@
         <input type="text" class="rango">
     </label>
 </form>   -->
-<h1 class="titulo">Título modificable</h1>
+<h1 class="titulo1" tabindex="1">Título modificable</h1>
 
-    <script  src="/LUCAS_DALTO/Capitulo_06/codigo.js"></script>
+<!-- tabindex ordena el orden de tabulacion -->
+<h1 class="titulo" tabindex="5">Tercero</h1>
+<h1 class="titulo" tabindex="4">Primero</h1>
+<h1 class="titulo" tabindex="3">Segundo</h1>
+
+<main>
+    <form action="">
+        <label for="">  Ingrese un dato: 
+            <input type="text" class="input-normal" tabindex="1" >
+            <small> Ejemplo: 9932458</small>
+        </label>
+        <label for="">  Ingrese un número: 
+            <input  class="input-normal1" tabindex="2"> 
+        </label>
+        <label for="">Subir un archivo: 
+            <input  class="input-normal2" tabindex="2">
+        </label>
+        <button type="submit">
+            Enviar
+        </button>
+    </form>
+    <h2 class="titulo2">Titulo 2</h2>
+    <h2 class="titulo3">Titulo 3</h2>
+</main>
+<script  src="/LUCAS_DALTO/Capitulo_06/codigo.js"></script>
+
 </body>
 </html>
