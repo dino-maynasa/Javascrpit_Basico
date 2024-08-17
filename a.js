@@ -74,3 +74,7 @@ console.log(typeof(fruits));  //antes de convertir
 let cadena = JSON.stringify(fruits); //convierte a cadena el array
 console.log(typeof(cadena)); //despues de usar JSON.stringify()
 console.log(cadena);
+
+
+
+//este es el final del comentario 

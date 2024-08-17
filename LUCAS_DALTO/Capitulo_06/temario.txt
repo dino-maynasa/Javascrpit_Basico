@@ -28,9 +28,9 @@
         hidden - indica si el elemenes aun no es, o ya no es relevante.
         id - define un identificador unico.
         style - contiene declaraciones de estilo para css para ser aplicado al elemento.
-        tabindex - indica si el elemento puede obtener un focus del input 
-        title -  contiene un texto con informacion relacionada al elemento que pertenece.
-        
+        tabindex - indica si el elto con informacion relacionada al elemento que pertenece.
+        emento puede obtener un focus del input 
+        title -  contiene un tex
 -* Atributos de inputs
         classname -  inidica el nombre de la clase 
         value - valor predefinido en el input
