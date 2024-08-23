@@ -66,3 +66,4 @@ document.write(tit); //true
 
 titulo3.classList.toggle('titulo_agregados'); //si no tiene la clase especificada,la agrega, si ya la tiene la elimina
 titulo3.classList.replace('titulo_agregados', 'clase_reemplazado'); //reemplaza la clase por otra
+

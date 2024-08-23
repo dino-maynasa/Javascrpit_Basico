@@ -54,6 +54,12 @@
 
 
 -* Obtención y modificación de elementos
+        - textContent = devuelve el texto de cualquier nodo.
+        -innerText = devuelve el texto  visible de unn node element
+        -innerHTML = devuelve el contenido de un html.
+        - outerHTML =  devuelve el codigo completo de un elemento.
+        
+
 -* Creación de elementos
 -* Obtención y modificacion de childs
 -* Métodos de childs (hijos)
